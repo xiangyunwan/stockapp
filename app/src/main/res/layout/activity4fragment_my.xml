@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_chart" >
+
+    <RelativeLayout
+        android:id="@+id/titles"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/bg_title" >
+
+        <TextView
+            android:id="@+id/title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="期货A"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/title_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_name"
+            android:layout_centerHorizontal="true"
+            android:text="000002"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/title_right_btn"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="5dp"
+            android:layout_toRightOf="@id/title_num"
+            android:background="@drawable/selector_btn_right" />
+
+        <Button
+            android:id="@+id/title_left_btn"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_margin="5dp"
+            android:layout_toLeftOf="@id/title_num"
+            android:background="@drawable/selector_btn_left" />
+
+        <Button
+            android:id="@+id/title_back_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="5dp"
+            android:background="@drawable/selector_btn_back" />
+
+        <Button
+            android:id="@+id/title_refresh_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="5dp"
+            android:background="@drawable/selector_btn_refresh" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titles"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/detail_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp" >
+
+            <TextView
+                android:id="@+id/now_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="6845"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="32sp" />
+
+            <TextView
+                android:id="@+id/lift"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/now_price"
+                android:text="-10"
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/lift_rate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/now_price"
+                android:text="-0.15%"
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/detail_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/open_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="今开:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/open_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/open_title"
+                android:text="6855"
+                android:textColor="@android:color/holo_red_light"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/high_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/open_title"
+                android:text="最高:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/high_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/open_title"
+                android:layout_toRightOf="@id/high_title"
+                android:text="6858"
+                android:textColor="@android:color/holo_red_light"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/total_count_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/high_title"
+                android:text="总量:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/total_count_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/high_title"
+                android:layout_toRightOf="@id/total_count_title"
+                android:text="1800吨"
+                android:textColor="@android:color/holo_green_dark"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/detail_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/ysd_close_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="昨收:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/ysd_close_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/ysd_close_title"
+                android:text="6840"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/low_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ysd_close_data"
+                android:text="最低:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/low_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ysd_close_data"
+                android:layout_toRightOf="@id/low_title"
+                android:text="6833"
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/total_money_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/low_title"
+                android:text="总额:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/total_money_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/low_title"
+                android:layout_toRightOf="@id/total_money_title"
+                android:text="2.03亿"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_transp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textSize="24sp" />
+
+
+
+    <android.support.v4.app.FragmentTabHost
+        android:id="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bg_title" >
+
+        <!--<TabWidget-->
+            <!--android:id="@android:id/tabs"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="horizontal" />-->
+        <FrameLayout
+            android:id="@+id/framecontent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/tv_transp"
+            android:layout_below="@id/details" />
+    </android.support.v4.app.FragmentTabHost>
+
+</RelativeLayout>

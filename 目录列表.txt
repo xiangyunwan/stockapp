@@ -1,0 +1,121 @@
+文件夹 PATH 列表
+卷序列号为 8F6F80A1 3CD2:D088
+C:.
+│  .classpath
+│  .project
+│  AndroidManifest.xml
+│  javaapk.com文件列表生成工具.bat
+│  project.properties
+│  更多源码打包下载.url
+│  本源码使用帮助.txt
+│  目录列表.txt
+│  
+├─.settings
+│      org.eclipse.core.resources.prefs
+│      org.eclipse.jdt.core.prefs
+│      
+├─assets
+│                  
+├─gen
+│  └─com
+│      └─android
+│          └─futures
+│                  BuildConfig.java
+│                  R.java
+│                  
+├─libs
+│      android-support-v4.jar
+│      
+├─res
+│  ├─drawable
+│  │      selector_bg_cell.xml
+│  │      selector_bg_tabs.xml
+│  │      selector_btn_back.xml
+│  │      selector_btn_left.xml
+│  │      selector_btn_refresh.xml
+│  │      selector_btn_right.xml
+│  │      
+│  ├─drawable-hdpi
+│  │      back.png
+│  │      back_pressed.png
+│  │      bg.png
+│  │      bg_chart.png
+│  │      bg_grid_cell.png
+│  │      bg_grid_cell_pressed.png
+│  │      bg_main.png
+│  │      bg_tab.png
+│  │      bg_tab_focused.png
+│  │      bg_title.png
+│  │      classification.png
+│  │      ic_launcher.png
+│  │      ic_pink.png
+│  │      index.png
+│  │      left.png
+│  │      left_pressed.png
+│  │      messages.png
+│  │      my_futures.png
+│  │      my_trasanction.png
+│  │      plates.png
+│  │      ranking.png
+│  │      refresh.png
+│  │      refresh_pressed.png
+│  │      right.png
+│  │      right_pressed.png
+│  │      settings.png
+│  │      standings.png
+│  │      
+│  ├─drawable-ldpi
+│  ├─drawable-mdpi
+│  ├─drawable-xhdpi
+│  ├─layout
+│  │      activity4fragment_my.xml
+│  │      activity_welcome.xml
+│  │      fragment_about.xml
+│  │      fragment_guide.xml
+│  │      fragment_kcharts.xml
+│  │      fragment_times.xml
+│  │      selector_text_color.xml
+│  │      tab_about.xml
+│  │      tab_guide.xml
+│  │      tab_kcharts.xml
+│  │      tab_times.xml
+│  │      
+│  └─values
+│          color.xml
+│          strings.xml
+│          
+└─src
+    └─com
+        └─android
+            └─futures
+                │  AboutFragment.java
+                │  GuideFragment.java
+                │  KChartsFragment.java
+                │  MyFragmentActivity.java
+                │  TimesFragment.java
+                │  WelcomeActivity.java
+                │  
+                ├─entity
+                │      AnnouncementEntity.java
+                │      AppInfo.java
+                │      FutruesEntity.java
+                │      GameLogEntity.java
+                │      KDJEntity.java
+                │      MACDEntity.java
+                │      MALineEntity.java
+                │      OHLCEntity.java
+                │      PayLogEntity.java
+                │      RSIEntity.java
+                │      TimesEntity.java
+                │      
+                ├─http
+                │      HttpHelper.java
+                │      
+                ├─util
+                │      Tools.java
+                │      
+                └─view
+                        GridChart.java
+                        KChartsView.java
+                        TimesView.java
+                        

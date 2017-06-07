@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_guide.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\tab_guide.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh_pressed.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\refresh_pressed.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_title.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\bg_title.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_refresh.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable\\selector_btn_refresh.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_pressed.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\left_pressed.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pink.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\ic_pink.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_kcharts.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\tab_kcharts.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity4fragment_my.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\activity4fragment_my.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ranking.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\ranking.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_bg_tabs.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable\\selector_bg_tabs.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_standings.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\standings.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_right.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable\\selector_btn_right.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_index.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\index.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_guide.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\fragment_guide.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kcharts.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\fragment_kcharts.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_pressed.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\right_pressed.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_pressed.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\back_pressed.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_tab_focused.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_focused.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_grid_cell.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\bg_grid_cell.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_main.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\bg_main.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_grid_cell_pressed.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\bg_grid_cell_pressed.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_about.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\tab_about.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messages.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\messages.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plates.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\plates.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_my_futures.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\my_futures.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_my_trasanction.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\my_trasanction.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_classification.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\classification.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_times.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\fragment_times.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_tab.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\bg_tab.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_bg_cell.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable\\selector_bg_cell.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_back.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable\\selector_btn_back.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_selector_text_color.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\selector_text_color.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_times.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\layout\\tab_times.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_left.xml.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable\\selector_btn_left.xml"
+    },
+    {
+        "merged": "D:\\leJR-Source\\stockapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_chart.png.flat",
+        "source": "D:\\leJR-Source\\stockapp\\app\\src\\main\\res\\drawable-hdpi\\bg_chart.png"
+    }
+]
